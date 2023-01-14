@@ -1,0 +1,8 @@
+--Функція
+--SELECT * FROM dino_data(6)
+--Процедура
+--CALL get_country('Apatosaurus')
+--Тригер
+--INSERT INTO dinosaur(dino_name, diet_id, species_id, type_id, lived_in, length_in_meters) 
+--   VALUES ('Conchoraptor',2,5,3,'Mongolia',8.0)
+--SELECT * FROM dinosaur
